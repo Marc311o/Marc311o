@@ -33,3 +33,11 @@
 <a href="https://en.cppreference.com/w/" target="_blank" title="C++ Documentation">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="40" height="40">
 </a>
+
+<a href="https://jquery.com/" target="_blank" title="jQuery Docs">
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery logo" width="40" height="40">
+</a>
+
+
+
+
