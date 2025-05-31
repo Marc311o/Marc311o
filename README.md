@@ -38,6 +38,9 @@
   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery logo" width="40" height="40">
 </a>
 
+<a href="https://dev.java/" target="_blank" title="Java Docs">
+  <img src="https://github.com/user-attachments/assets/97c9619a-96ea-46f4-a38a-7a5c21205012" alt="Java logo" width="40" height="40">
+</a>
 
 
 
