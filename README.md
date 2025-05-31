@@ -5,6 +5,8 @@
 
 - 🌱 Currently learning web-dev tools
 
+- 🎯 Current side quest: Java ☕
+
 <h3 align="center">Languages and Tools:</h3>
 <a href="https://www.python.org/" target="_blank" title="Python Documentation">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="40" height="40">
