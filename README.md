@@ -1,48 +1,82 @@
-<h1 align="center">Hi 👋, I'm Jurek</h1>
-<h3 align="center">an IT student</h3>
+<div align="center">
+  <img height="150" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"  />
+</div>
 
-- 📖 Currently studying at **Lodz University of Technology**
+###
 
-- 🌱 Currently learning web-dev tools
+<div align="center">
+</div>
 
-- 🎯 Current side quest: Java ☕
-
-<h3 align="center">Languages and Tools:</h3>
-<a href="https://www.python.org/" target="_blank" title="Python Documentation">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="40" height="40">
-</a>
-
-<a href="https://www.w3schools.com/html/" target="_blank" title="Html Documentation">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Badge" width="40" height="40">
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" title="CSS Documentation">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Badge" width="40" height="40">
-</a>
-
-<a href="https://www.w3schools.com/js/" target="_blank" title="JS Documentation">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="JS Badge" width="40" height="40">
-</a>
-
-<a href="https://getbootstrap.com/" target="_blank" title="Bootstrap Documentation">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" width="50" height="40">
-</a>
-
-<a href="https://en.cppreference.com/w/c/language" target="_blank" title="C Documentation">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Logo" width="40" height="40">
-</a>
-
-<a href="https://en.cppreference.com/w/" target="_blank" title="C++ Documentation">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="40" height="40">
-</a>
-
-<a href="https://jquery.com/" target="_blank" title="jQuery Docs">
-  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery logo" width="40" height="40">
-</a>
-
-<a href="https://dev.java/" target="_blank" title="Java Docs">
-  <img src="https://github.com/user-attachments/assets/97c9619a-96ea-46f4-a38a-7a5c21205012" alt="Java logo" width="40" height="40">
-</a>
+###
 
 
 
+###
+
+<h1 align="center">Hey there, I'm Jurek👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm CS student from Łódź in Poland<br><br>- 🔭 I’m currently sstudying at Lodz University of Technology<br>- 📚 I'm currently learning web dev tools<br>- 🎯 Current side quest: Java ☕</p>
+
+###
+
+<h3 align="left">🛠 Languages and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Marc311o&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marc311o&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Marc311o/Marc311o/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <h4>Visitors:</h4>
+  <img src="https://profile-counter.glitch.me/Marc311o/count.svg?"  />
+</div>
