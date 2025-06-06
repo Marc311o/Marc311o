@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Marc311o&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="140" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Marc311o&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="208" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marc311o&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
 
