@@ -76,7 +76,3 @@
 
 ###
 
-<div align="center">
-  <h4>Visitors:</h4>
-  <img src="https://profile-counter.glitch.me/Marc311o/count.svg?"  />
-</div>
