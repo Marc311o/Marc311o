@@ -77,9 +77,10 @@
 
 ###
 
-<div align="center">
+
+<!-- visitors counter -- <div align="center">
   <img alt="Visitor Stats" src="https://widgetbite.com/stats/Marc311o"/>  
-</div>
+</div>-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marc311o/Marc311o/output/github-snake-dark.svg" />
