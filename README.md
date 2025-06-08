@@ -66,11 +66,20 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Marc311o&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="208" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marc311o&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://streak-stats.demolab.com?user=Marc311o&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height=150 align="center" alt="streak graph"  />
+  </a>
+  <a href="https://github.com/Marc311o">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marc311o&locale=en&hide_title=false&layout=compact&card_width=280&card_height=150&langs_count=7&theme=dark&hide_border=true&order=2" alt="languages graph" align="center" height=150 />
+  </a>
+  
 </div>
 
 ###
+
+<div align="center">
+  <img alt="Visitor Stats" src="https://widgetbite.com/stats/Marc311o"/>  
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marc311o/Marc311o/output/github-snake-dark.svg" />
