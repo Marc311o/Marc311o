@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Marc311o?tab=repositories">
     <img src="https://streak-stats.demolab.com?user=Marc311o&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height=150 align="center" alt="streak graph"  />
   </a>
   <a href="https://github.com/Marc311o">
