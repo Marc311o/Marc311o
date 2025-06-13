@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm CS student from Łódź in Poland<br><br>- 🔭 I’m currently studying at Lodz University of Technology<br>- 📚 I'm currently learning web dev tools<br>- 🎯 Current side quest: Java ☕</p>
+<p align="left">I'm IT student from Łódź in Poland<br><br>- 🔭 I’m currently studying at Lodz University of Technology<br>- 📚 I'm currently learning web dev tools<br>- 🎯 Current side quest: Java ☕</p>
 
 ###
 
